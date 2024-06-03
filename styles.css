@@ -1,9 +1,9 @@
 
 /* Your CSS Code here. */
-#sim{width="300px"; background-color: lightblue ;
+#sim{width:300px; 
+	 background-color: lightblue ;
 	 border:15px;
 	 border-style: solid;
   border-color: blue;
-	;
-	 ;padding:50px;
+padding:50px;
 	 margin:20px;}
